@@ -1,0 +1,148 @@
+.image1{
+  width: 60px;
+}
+.image2{
+  width: 410px;
+}
+.container{
+  display: flex;
+  margin-left: 5rem;
+}
+.container1{
+  margin-top: 3rem;
+}
+.container2{
+  padding: 2rem;
+  margin-left: 2rem;
+}
+.container2 button{
+  margin-left: 1rem;
+  background-color: white;
+  border-radius: 10px;
+  cursor: pointer;
+  border: none;
+}
+
+
+.cart{
+  padding: 1rem 4rem 1rem 4rem;
+  background-color: orange;
+  color: white;
+  border: none;
+  border-radius: 2px;
+}
+.buynow{
+  padding: 1rem 3.5rem 1rem 3.5rem;
+  background-color: rgb(253, 98, 42);
+  margin-left: 0.5rem;
+  color: white;
+  border: none;
+  border-radius: 2px;
+}
+.buttons{
+  width: 45rem;
+}
+.mildin{
+  color: gray;
+  display: inline;
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+.para{
+  font-size: 1.5rem;
+}
+.special{
+  color: green;
+  font-weight: bold;
+}
+.price{
+  display: inline;
+}
+.original{
+  text-decoration: line-through;
+  display: inline-block;
+  margin-left: 1rem;
+}
+.minus{
+  color: green;
+  font-size: 1.2rem;
+  display: inline-block;
+  margin-left: 1rem;
+}
+.sub-container{
+  display: flex;
+}
+.sub-container1{
+  width: 7rem;
+  color: gray;
+  font-weight: bold;
+}
+
+#size{
+  border: 2px solid rgb(172, 172, 172);
+  border-radius: 2px;
+  background-color: white;
+  padding: 0.5rem 1rem 0.5rem 1rem;
+}
+#size1{
+  color: blue;
+  margin-top: 4px;
+  margin-left: 1rem;
+}
+
+.sizeChartImage{
+  width: 2.5rem;
+  height: 0.8rem;
+  margin-top: 10px;
+  margin-left: 1rem;
+}
+
+.offers{
+  color: blue;
+}
+.para1{
+  display: inline-block;
+  margin-left: 1rem;
+  margin-top: 0px;
+  font-size: 0.9rem;
+  vertical-align: top;
+}
+.para2{
+  vertical-align: top;
+  margin-top: -2px;
+  color: gray;
+}
+.para3{
+  display: inline-block;
+  vertical-align: top;
+  margin-top: -2px;
+  color: gray;
+  margin-left: 30rem;
+  font-weight: bold;
+}
+.para4{
+  background-color: blue;
+  width: max-content;
+  padding: 0rem 0.4rem;
+  border-radius: 50%;
+  color: white;
+}
+.tag{
+  width: 1.2rem;
+}
+#star{
+  padding: 0.2rem 0.5rem;
+  border-radius: 20px;
+  background-color: rgb(1, 173, 1);
+  color: white;
+  font-size: 1.5rem;
+}
+#reviews{
+  display: inline-block;
+  margin-left: 2rem;
+}
+#assured{
+  width: 4rem;
+  display: inline-block;
+  margin-left: 2rem;
+}
